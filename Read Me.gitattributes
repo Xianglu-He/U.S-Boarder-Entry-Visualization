@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+This data file is referenced from https://www.kaggle.com/akhilv11/border-crossing-entry-data
+Please visit https://public.tableau.com/profile/xianglu4565#!/vizhome/USLandBorderEntryData/BorderCrossingEntryData for the tableau dashboard
